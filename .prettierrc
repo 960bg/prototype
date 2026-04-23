@@ -4,5 +4,5 @@
   "semi": true,
   "singleQuote": true,
   // Ограничивает длину строки до 60 символов
-  "printWidth": 30
+  "printWidth": 60
 }
